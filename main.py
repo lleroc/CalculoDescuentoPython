@@ -4,3 +4,5 @@ def calculo_descuento():
 def imprimir():
     return ""
 
+
+print("Hola mundo")
